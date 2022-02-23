@@ -38,7 +38,7 @@
 
 ![screenshot](https://github.com/alexruix/My-Gallery-Devchallenges/blob/main/img/screenshot.png)
 
-I've used grid template a lot since years but never had to implement complex grid where I have to specify which column/row an element should start/end. So this was interesting to do it here. checkout the [live demo](https://alexruix.github.io/My-Gallery-Devchallenges/).
+I've used grid template and CSS simple animations for this challenges. It´s responsive design[live demo](https://alexruix.github.io/My-Gallery-Devchallenges/).
 
 ### Built With
 
